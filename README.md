@@ -27,4 +27,4 @@ Durante o desenvolvimento deste projeto, aprimorei minhas habilidades em:
 - Boas práticas de desenvolvimento HTML, CSS e JavaScript.
 
 ## Link para o Projeto
-Confira o projeto em meu [GitHub](https://github.com/kimurinhakikii/projeto-serenatto).
+Confira o projeto em meu [GitHub](https://kimurinhakikii.github.io/projeto-serenatto/).
